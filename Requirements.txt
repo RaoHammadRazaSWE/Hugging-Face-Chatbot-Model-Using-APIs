@@ -1,0 +1,5 @@
+streamlit
+load_dotenv
+ffmpeg  
+ipython
+pydub  
